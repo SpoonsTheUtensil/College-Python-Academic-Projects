@@ -1,0 +1,6 @@
+Name            Hours    Hourly Rate   Total Pay
+Rex             10.00          10.00      100.00
+Jennifer        15.25          40.00      610.00
+Shaun           20.00          42.00      840.00
+Patric          21.25          40.00      850.00
+Bryan           15.20          25.00      380.00

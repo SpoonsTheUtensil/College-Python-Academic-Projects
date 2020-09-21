@@ -1,0 +1,5 @@
+Rex 10.00 10
+Jennifer 15.25 40
+Shaun 20.00 42
+Patric 21.25 40
+Bryan 15.20 25
